@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: formom;
+  src: url(fonts/ZT\ Formom/ZT\ Formom\ -\ WEB\ TT/ZT\ Formom.ttf)
+}
+
+:root {
+  font-family: "formom", ZT Formom;
+}
